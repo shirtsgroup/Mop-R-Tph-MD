@@ -95,9 +95,9 @@ Each replica directory (`sim0` … `sim63`) holds the pre-built starting structu
 
 The octamer helix trajectory at 273 K is shown below.
 
-<video src="oct_helix_273K.mp4" controls width="640"></video>
+<video src="https://raw.githubusercontent.com/shirtsgroup/Mop-R-Tph-MD/main/oct_helix_273K.mp4" controls width="640"></video>
 
-> If the video does not render inline, download it directly: [oct_helix_273K.mp4](oct_helix_273K.mp4)
+> If the video does not render inline, view it directly on GitHub: [oct_helix_273K.mp4](https://github.com/shirtsgroup/Mop-R-Tph-MD/blob/main/oct_helix_273K.mp4)
 
 ---
 
